@@ -2,11 +2,10 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Conectados: Educación y Tecnología para Todos</title>
+  <h1>Conectados: Educación y Tecnología para Todos</h1>
 </head>
 <body>
 
-<h1>Conectados: Educación y Tecnología para Todos</h1>
 <p>Proyecto Final de Desarrollo Web (Parte I) — Advocacy Web Page</p>
 
 <p>
@@ -96,7 +95,7 @@
 </ul>
 
 <h2>Repositorio</h2>
-<p><a href="https://github.com/jjmn-15/README.git/[nombre-del-repositorio]">https://github.com/[tu-usuario]/[nombre-del-repositorio]</a></p>
+<p><a href="https://github.com/jjmn-15/README">https://github.com/jjmn-15/README</a></p>
 
 <hr>
 <p><em>Proyecto académico desarrollado como parte del curso de Desarrollo Web.</em></p>
